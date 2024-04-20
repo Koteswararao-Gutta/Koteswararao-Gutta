@@ -1,5 +1,3 @@
-Here's the modified description in the format of a README file for your GitHub profile:
-
 ## Koteswararao Gutta 🌟
 
 ### 👋 Hello, I'm Koteswararao Gutta
